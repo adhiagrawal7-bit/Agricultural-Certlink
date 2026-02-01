@@ -17,3 +17,8 @@
 - Generate certificate preview instantly
 - Verify certificate ID
 - Attractive front-end design, easy to use
+
+## Project Overview
+CertLink is a digital certification system for agricultural exports. 
+It helps farmers generate and verify export certificates instantly, 
+reducing paperwork and delays.
