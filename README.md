@@ -22,3 +22,8 @@
 CertLink is a digital certification system for agricultural exports. 
 It helps farmers generate and verify export certificates instantly, 
 reducing paperwork and delays.
+
+## Future Enhancements
+- Add QR code for certificate verification
+- Export certificate as PDF
+- Add user authentication for inspectors
